@@ -16,7 +16,7 @@ By running the command `docker buildx ls`，If the result shows `linux/arm64`, i
 ## Get Started
 ```
 # first step: clone harbor ARM code
-git clone https://github.com/goharbor/harbor-arm.git
+git clone https://github.com/Mohalicious/harbor-arm.git
 
 # execute build command：Download harbor source code
 cd harbor-arm && make download
